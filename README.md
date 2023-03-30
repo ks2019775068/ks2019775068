@@ -1,20 +1,22 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SUBIN'S%20GITHUB&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=High%20Programming&fontSize=90)
 <div align="center">
-  <h3>📂Use📂</h3>
-<div align="center">
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Apache Cordova-E8E8E8?style=flat&logo=Apache Cordova&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=Chart.js&logoColor=white"/>
-</div></div>
+	<h4>안녕하세요👋</h4>
+	<h3>📂Use📂</h3>
+	<div align="center">
+		<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+		<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+		<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+		<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Apache Cordova-E8E8E8?style=flat&logo=Apache Cordova&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=Chart.js&logoColor=white"/>
+	</div>
+</div>	
 
 <div align="center">
-<h3>💻Spec💻</h3>
-<img width="500" heigh="auto" alt="spec" src="https://user-images.githubusercontent.com/80227900/228855787-f7dec0d9-a0fd-47e4-a0a1-7f83bf5a37b8.png">
+	<h3>💻Spec💻</h3>
+	<img width="500" heigh="auto" alt="spec" src="https://user-images.githubusercontent.com/80227900/228855787-f7dec0d9-a0fd-47e4-a0a1-7f83bf5a37b8.png">
 </div>
 
 ## 프로젝트 1️⃣ - 포트폴리오
