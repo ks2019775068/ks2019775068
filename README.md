@@ -28,17 +28,21 @@
 ## 프로젝트 2️⃣ - 경성대학교 소프트웨어학과 소개
 #### 학과소개, 홍보하는 영상, 학과 정보, 찾아가는 길을 담았습니다.
 ### 실행화면
+##### 앱 실행 첫 화면에서 상단 우측 버튼을 누르면 진동이 옵니다.(Plugin-vibration)
+##### 첫 화면 이미지 3개가 자동으로 바뀝니다.(JavaScript)
 <img width="33.3%" heigh="auto" alt="kssw1" src="https://user-images.githubusercontent.com/80227900/228869458-74f05868-27dc-4a74-ad98-fdc31f48d194.jpg"><img width="33.3%" heigh="auto" alt="kssw2" src="https://user-images.githubusercontent.com/80227900/228869468-c89f1091-30c2-430d-8a29-846d9fa53fa9.jpg"><img width="33.3%" heigh="auto" alt="kssw3" src="https://user-images.githubusercontent.com/80227900/228869475-d874b7f7-614d-4196-a373-cd500e72cdda.jpg">
-#### 앱 실행 첫 화면에서 상단 우측 버튼을 누르면 진동이 옵니다.(Plugin-vibration)
-#### 첫 화면 이미지 3개가 자동으로 바뀝니다.(JavaScript)
 
+##### Chart.js를 이용해 학과 정보를 그래프로 나타냈습니다.
+##### icon을 이용해 지도와 학과 홈페이지를 링크로 연결했습니다.(Bootstrap)
 <img width="33.3%" heigh="auto" alt="kssw4" src="https://user-images.githubusercontent.com/80227900/228869477-d629a3a9-51d4-4b20-b11b-eb4bd9903f71.jpg"><img width="33.3%" heigh="auto" alt="kssw5" src="https://user-images.githubusercontent.com/80227900/228869479-c07c94fe-e6d3-4c1a-9995-0506b62cbe29.jpg">
-#### Chart.js를 이용해 학과 정보를 그래프로 나타냈습니다.
-#### icon을 이용해 지도와 학과 홈페이지를 링크로 연결했습니다.(Bootstrap)
+
 ---
 ## Dothome 연결🖇
 <img width="100%" height="auto" align="center" alt="dothome" src="https://user-images.githubusercontent.com/80227900/228887894-d90903e7-3242-42d9-928e-b28f82f6be4d.png">
-
+### 실행화면
 <img width="45%" height="auto" alt="dothome_kssw" src="https://user-images.githubusercontent.com/80227900/228891316-1ce9c1bc-274f-430a-b44a-2573487dad54.png"><img width="45%" height="auto" alt="dothome_portfolio" src="https://user-images.githubusercontent.com/80227900/228891325-54cdea1d-087a-4281-8438-5dbd130df98c.png">
+### 
+#### [경성대 소프트웨어학과 소개](http://kssw.dothome.co.kr/kssw/www/index.html)
+#### [포트폴리오](http://kssw.dothome.co.kr/portfolio/introduce/www/index.html)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
