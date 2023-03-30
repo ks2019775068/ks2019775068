@@ -40,4 +40,6 @@
 ## Dothome 연결🖇
 <img width="100%" height="auto" align="center" alt="dothome" src="https://user-images.githubusercontent.com/80227900/228887894-d90903e7-3242-42d9-928e-b28f82f6be4d.png">
 
+<img width="45%" height="auto" alt="dothome_kssw" src="https://user-images.githubusercontent.com/80227900/228891316-1ce9c1bc-274f-430a-b44a-2573487dad54.png"><img width="45%" height="auto" alt="dothome_portfolio" src="https://user-images.githubusercontent.com/80227900/228891325-54cdea1d-087a-4281-8438-5dbd130df98c.png">
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
