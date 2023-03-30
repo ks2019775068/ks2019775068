@@ -43,7 +43,7 @@
 ### 실행화면
 <img width="45%" height="auto" alt="dothome_kssw" src="https://user-images.githubusercontent.com/80227900/228891316-1ce9c1bc-274f-430a-b44a-2573487dad54.png"><img width="45%" height="auto" alt="dothome_portfolio" src="https://user-images.githubusercontent.com/80227900/228891325-54cdea1d-087a-4281-8438-5dbd130df98c.png">
 
-### 
+### 링크연결
 #### [경성대 소프트웨어학과 소개](http://kssw.dothome.co.kr/kssw/www/index.html)
 #### [포트폴리오](http://kssw.dothome.co.kr/portfolio/introduce/www/index.html)
 
