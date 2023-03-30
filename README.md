@@ -25,10 +25,6 @@
 <img width="33.3%" heigh="auto" alt="page4" src="https://user-images.githubusercontent.com/80227900/228862718-92e5cb16-5388-48c6-8aef-5a0fdc0f2bc0.jpg">
 <img width="33.3%" heigh="auto" alt="page5" src="https://user-images.githubusercontent.com/80227900/228862730-83267d6b-45ab-4bce-a427-84bc00b06b85.jpg">
 
-### 실행영상
-
-
----
 ---
 ## 프로젝트 2 - 경성대학교 소프트웨어학과 소개
 
