@@ -1,12 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SUBIN'S%20GITHUB&fontSize=90)
+<div align="center">
+  <h3>📂Use📂</h3>
+<div align="center">
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache Cordova-E8E8E8?style=flat&logo=Apache Cordova&logoColor=white"/>
+</div></div>
 
-#Project Title
+# 프로젝트 1-포트폴리오 만들기
 
-One Paragraph of project description goes here
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+  
+## 목차
+- 자기소개
+- 인적정보
+- 자격증 및 어학
+- 경력
+- 출처
 
 ### Prerequisites
 
