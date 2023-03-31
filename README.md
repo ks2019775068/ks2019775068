@@ -49,6 +49,8 @@
 ### 링크연결
 #### [경성대 소프트웨어학과 소개](http://kssw.dothome.co.kr/kssw/www/index.html)
 #### [포트폴리오](http://kssw.dothome.co.kr/portfolio/introduce/www/index.html)
+#### [경성대 소프트웨어학과 실행영상](https://youtube.com/shorts/4lxU6_M04o0?feature=share)
+#### [포트폴리오 실행영상](https://youtube.com/shorts/t7wBiPQ0gAw?feature=share)
 
 <div align="center">
 	<h2>봐주셔서 감사합니다🙏</h2>
