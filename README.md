@@ -30,7 +30,7 @@
 ## 프로젝트 2️⃣ - 경성대학교 소프트웨어학과 소개
 #### 학과소개, 홍보하는 영상, 학과 정보, 찾아가는 길을 담았습니다.
 ### 🖼실행화면
-##### 앱 실행 첫 화면에서 상단 우측 버튼을 누르면 진동이 옵니다.(Plugin-vibration)
+##### 앱 실행 첫 화면에서 상단 좌측 버튼(휴대폰모양)을 누르면 진동이 옵니다.(Plugin-vibration)
 ##### 첫 화면 이미지 3개가 자동으로 바뀝니다.(JavaScript)
 <img width="33.3%" heigh="auto" alt="kssw1" src="https://user-images.githubusercontent.com/80227900/228869458-74f05868-27dc-4a74-ad98-fdc31f48d194.jpg"><img width="33.3%" heigh="auto" alt="kssw2" src="https://user-images.githubusercontent.com/80227900/228869468-c89f1091-30c2-430d-8a29-846d9fa53fa9.jpg"><img width="33.3%" heigh="auto" alt="kssw3" src="https://user-images.githubusercontent.com/80227900/228869475-d874b7f7-614d-4196-a373-cd500e72cdda.jpg">
 
