@@ -11,6 +11,7 @@
 		<img src="https://img.shields.io/badge/Apache Cordova-E8E8E8?style=flat&logo=Apache Cordova&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
 		<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=Chart.js&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Dothome-orange"/>
 	</div>
 </div>	
 
