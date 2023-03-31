@@ -33,7 +33,7 @@
 ### 🖼실행화면
 ##### 앱 실행 첫 화면에서 상단 좌측 버튼(휴대폰모양)을 누르면 진동이 옵니다.(Plugin-vibration)
 ##### 첫 화면 이미지 3개가 자동으로 바뀝니다.(JavaScript)
-<img width="33.3%" height="auto" alt="kssw1" src="https://user-images.githubusercontent.com/80227900/228869458-74f05868-27dc-4a74-ad98-fdc31f48d194.jpg"><img width="33.3%" height="auto" alt="kssw2" src="https://user-images.githubusercontent.com/80227900/228869468-c89f1091-30c2-430d-8a29-846d9fa53fa9.jpg"><img width="33.3%" height="auto" alt="kssw3" src="https://user-images.githubusercontent.com/80227900/228869475-d874b7f7-614d-4196-a373-cd500e72cdda.jpg">
+<img width="33.3%" height="auto" alt="kssw1" src="https://user-images.githubusercontent.com/80227900/229024884-e530bdb8-b2b6-4605-9a36-cb5b46cf9d56.gif"><img width="33.3%" height="auto" alt="kssw2" src="https://user-images.githubusercontent.com/80227900/228869468-c89f1091-30c2-430d-8a29-846d9fa53fa9.jpg"><img width="33.3%" height="auto" alt="kssw3" src="https://user-images.githubusercontent.com/80227900/228869475-d874b7f7-614d-4196-a373-cd500e72cdda.jpg">
 
 ##### Chart.js를 이용해 학과 정보를 그래프로 나타냈습니다.
 ##### icon을 이용해 지도와 학과 홈페이지를 링크로 연결했습니다.(Bootstrap)
